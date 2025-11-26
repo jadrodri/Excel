@@ -1,0 +1,36 @@
+﻿agence;date_debut;date_fin;nature;matricule;nom;prenom;type_employe
+Agence A;2025-01-03;2025-01-05;Congé payé annuel;M001;Dupont;Jean;encadrant
+Agence A;2025-02-10;2025-02-12;Arrêt Maladie;M002;Leroy;Sophie;intervenant
+Agence B;2025-03-01;2025-03-15;Congé maternité;M003;Martin;Claire;encadrant
+Agence B;2025-01-20;2025-01-21;Récupération;M004;Petit;Lucas;intervenant
+Agence C;2025-04-02;2025-04-02;Congé Enfant malade;M005;Garcia;Emma;intervenant
+Agence C;2025-02-14;2025-02-14;Mise à pied disciplinaire;M006;Morel;Léo;intervenant
+Agence A;2025-03-18;2025-03-20;Accident travail;M007;Fournier;Julie;intervenant
+Agence A;2025-05-10;2025-05-10;Absence injustifiée;M008;Roux;Hugo;intervenant
+Agence B;2025-06-01;2025-06-10;Congé payé pour événement familial;M009;Vincent;Lina;encadrant
+Agence B;2025-04-15;2025-04-16;Autorisation d'absences pour examens médicaux de la femme enceinte;M010;Henry;Sarah;intervenant
+Agence C;2025-02-05;2025-02-07;Arrêt pathologique;M011;Renaud;Nina;encadrant
+Agence C;2025-01-07;2025-01-09;Maladie professionnelle;M012;Blanc;Adam;intervenant
+Agence A;2025-03-22;2025-03-25;Congé payé annuel;M013;Boyer;Zoé;intervenant
+Agence A;2025-05-04;2025-05-04;Congé Enfant malade;M014;Gauthier;Paul;intervenant
+Agence B;2025-03-15;2025-03-20;Congés individuels formation à temps plein;M015;Chevalier;Louise;encadrant
+Agence B;2025-02-01;2025-02-03;Repos Forfait jour;M016;Barbier;Noah;siege
+Agence C;2025-04-12;2025-04-12;Absence autorisée rémunérée;M017;Schmitt;Mila;intervenant
+Agence C;2025-01-25;2025-01-28;Congé paternité;M018;Perrin;Maxime;encadrant
+Agence A;2025-06-14;2025-06-15;Préavis non effectué et payé;M019;Marchand;Anna;siege
+Agence A;2025-03-30;2025-03-30;Congé payé annuel;M020;Moulin;Louis;intervenant
+Agence B;2025-02-21;2025-02-23;Congé parental d'éducation à temps partiel;M021;Guillot;Léa;intervenant
+Agence B;2025-04-07;2025-04-08;Récupération;M022;Colin;Tom;intervenant
+Agence C;2025-05-03;2025-05-05;Congé de proche aidant;M023;Brun;Inès;encadrant
+Agence C;2025-06-11;2025-06-11;Repos en contrepartie d'heures supplémentaires effectuées au-delà du contingent;M024;Schneider;Jules;intervenant
+Agence A;2025-01-11;2025-01-12;Mise à pied conservatoire;M025;Moreau;Jade;intervenant
+Agence A;2025-03-05;2025-03-07;Accident de trajet;M026;Meunier;Nathan;intervenant
+Agence B;2025-03-28;2025-03-29;Congé sans solde;M027;Faure;Eva;siege
+Agence B;2025-05-20;2025-05-22;Temps partiel thérapeutique (risque maladie);M028;Andre;Liam;intervenant
+Agence C;2025-02-15;2025-02-17;Absence formation apprenti;M029;Lambert;Alice;intervenant
+Agence C;2025-06-02;2025-06-04;Congé de solidarité familiale;M030;Fontaine;Noé;encadrant
+Agence A;2025-04-10;2025-04-10;Congé payé annuel;M031;Carpentier;Anaïs;intervenant
+Agence A;2025-06-06;2025-06-07;Congé parental d'éducation à temps plein;M032;Raymond;Ethan;siege
+Agence B;2025-01-18;2025-01-18;Absence autorisée non rémunérée;M033;Masson;Elena;intervenant
+Agence B;2025-05-29;2025-05-30;Absence pour inaptitude;M034;Dupuis;Nina;intervenant
+Agence C;2025-03-11;2025-03-12;CP ancienneté;M035;Perrot;Lucas;intervenant
